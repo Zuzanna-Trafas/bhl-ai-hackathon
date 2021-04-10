@@ -1,5 +1,5 @@
 # bhl-ai-hackathon
-Repozytorium stworzony podczas hackathonu BEST Hacking League  
+Repozytorium stworzony podczas hackathonu BEST Hacking League przez drużynę GHOST  
 pliki:  
 **AI - template.ipynb** - ostateczna forma klasyfikatora  
 **bhl_doc.ipynb** - dokumentacja w formie notebooka  

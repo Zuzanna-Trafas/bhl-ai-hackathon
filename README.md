@@ -1,6 +1,15 @@
 # bhl-ai-hackathon
-Repozytorium stworzone podczas hackathonu BEST Hacking League przez drużynę GHOST  
-Pliki:  
-**AI - template.ipynb** - ostateczna forma klasyfikatora  
-**bhl_doc.ipynb** - dokumentacja w formie notebooka  
-**bhl_doc.html** - dokumentacji w formacie html(przyjemniejsza do odczytu)  
+Repository made for BEST Hacking League hackathon by team GHOST.  
+  
+bhl-ai-hackathon/  
+├── .data/  
+│ └── **final_train.csv** - training data  
+├── documentation/ (WiP)  
+├── dokumentacja/  
+│ ├── **bhl_doc.ipynb** - documentation in polish   
+│ └── **bhl_doc.html** - documentation in polish (preferable format for reading)  
+├── model/  
+│ ├── **AI - template.ipynb** - notebook to test our model  
+│ └── **ghost_model.dat** - our model  
+├── zdjęcia - pictures for documentations  
+└── ...   
